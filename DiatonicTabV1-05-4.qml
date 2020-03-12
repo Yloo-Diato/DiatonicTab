@@ -96,7 +96,7 @@ MuseScore {
      // Clavier 8 basses Sol/Do
      { "GC8B" : 
        { 
-         "Titre" : qsTr("G/C 8 Basses"),
+         "Description" : qsTr("G/C 8 Basses"),
          "Pousse": "-C-C7-CM-CM7-C--C-7-C/E-C/G-E-E7-EM-EM7-E--E-7-" ,
 	    "Tire"  : "-A-A7-AM-AM7-A--A-7" +
 	              "-D-D7-DM-DM7-D--D-7" +
@@ -107,7 +107,7 @@ MuseScore {
 	  // Clavier Sol/Do 12 basses
        "GC12B" : 
        { 
-         "Titre" : qsTr("G/C 12 Basses"),
+         "Description" : qsTr("G/C 12 Basses"),
          "Pousse": "-C-C7-CM-CM7-C--C-7-C/E-C/G" + 
                    "-E-E7-EM-EM7-E--E-7" + 
                    "-G#-G#7-G#M-G#M7-G#--G#-7" +
@@ -131,8 +131,9 @@ MuseScore {
                    "-E#-E#7-E#M-E#M7-E#--E#-7-",
 	  },
 	  // Clavier Sol/Do 18 basses
-	  "GC18B" : 
-       { 
+	 "GC18B" : 
+         { 
+	 "Description" : qsTr("Sol/Do 18 basses")
          "Titre" : qsTr("G/C 18 Basses"),
          "Pousse": "-C-C7-CM-CM7-C--C-7-C/E-C/G" + 
                    "-E-E7-EM-EM7-E--E-7" + 
@@ -157,8 +158,8 @@ MuseScore {
                    "-E#-E#7-E#M-E#M7-E#--E#-7-",
 	  },
 	  // Clavier 8 basses La/Ré
-	  "AD" : 
-	  { 
+	"AD" : 
+	{ "description": qsTr("8 basses La/Ré")
 	    "Titre" : qsTr("A/D 8 Basses"),
 	    "Pousse": "-D-F#-Gb-A#-Bb-" ,
 	    "Tire"  : "-B-E-",
@@ -167,7 +168,7 @@ MuseScore {
 	  // Irish diatonic
        "C#D8B" : 
        { 
-         "Titre" : qsTr("C#/D 8 Basses"),
+         "description" : qsTr("C#/D 8 Basses"),
          "Pousse": "-D-D7-DM-DM7-D--D-7" + 
                    "-F#-F#7-F#M-F#M7-F#--F#-7"  ,
          "Tire"  : "-B-B7-BM-BM7-B--B-7" + 
@@ -178,7 +179,7 @@ MuseScore {
 	 // BC
 	     "BC8B" : 
          { 
-          "Titre" : qsTr("B/C 8 Basses"),
+          "description" : qsTr("B/C 8 Basses"),
           "Pousse": "-E-E7-EM-EM7-E--E-7" + 
                     "-C-C7-CM-CM7-C--C-7",
            "Tire" : "-A-A7-AM-AM7-A--A-7" +
