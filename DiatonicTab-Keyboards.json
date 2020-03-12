@@ -1,5 +1,4 @@
 {
-      // Sol/Do, Standard (sans altération touches 1 et 1'), 2 rangs, 21 boutons
       "GCStd2R21" : { 
                description: "G/C,2 rangs, pas d'altération",
                "C3" : ""       ,"C3#"  : ""        ,"D3"  : "2P"    ,"D3#" : ""       ,"E3"  : "1'P"   ,"F3" : "1'T",
@@ -10,7 +9,6 @@
                "F5#" : "10T"   ,"G5"   : "8'P/9P"  ,"G5#" : ""      ,"A5"  : "9'T/11T","A5#" : " "     ,"B5" : "10P/10'T",
                "C6" : "9'P"    ,"C6#"  : ""        ,"D6"  : "11P"   ,"D6#" : ""       ,"E6"  : "10'P"  ,
             },
-      // Sol/Do, Alt (avec altération touches 1 et 1'), 2 rangs 21 boutons
       "GCAlt2R21" : { 
                description: "G/C,2 rangs, avec altérations",
                "C3" : ""      ,"C3#" : ""        ,"D3" : "2P"    ,"D3#" : ""       ,"E3" : ""      ,"F3" : "",
@@ -21,7 +19,6 @@
                "F5#": "10T"   ,"G5"  : "8'P/9P"  ,"G5#": ""      ,"A5"  : "9'T/11T","A5#": ""      ,"B5" : "10P/10'T",
                "C6" : "9'P"   ,"C6#" : ""        ,"D6" : "11P"   ,"D6#" : ""       ,"E6" : "10'P"  ,
             },
-      // Clavier Loffet 3 rangs
       "GCLoffet3R" : {
                description: "Sol/Do Bernard Loffet 3 rangs",
                "C3" : ""      ,"C3#": ""           ,"D3" : "2P"        ,"D3#": ""            ,"E3" : "1'P/1T","F3": "1'T",
@@ -32,7 +29,6 @@
                "F5#": "10T"   ,"G5" : "8'P/9P/7''T","G5#": "7''P/8''T ","A5" : "8''P/9'T/11T","A5#": "9''T " ,"B5": "10P/10'T",
                "C6" : "9'P"   ,"C6#": ""           ,"D6" : "11P"       ,"D6#": "9''P "       ,"E6" : "10'P",
                 },      
-      // Castagnari G/C FH
       "GCCasta3RFH" : {
                description: "Sol/Do Castagnari 3 rangs FH",
                "C3" : ""      ,"C3#": ""            ,"D3" : "2P"        ,"D3#": ""            ,"E3" : "1'P/1T","F3" : "1'T",
@@ -43,7 +39,6 @@
                "F5#": "10T"   ,"G5" : "8'P/9P/7''T" ,"G5#": "7''P/8''T ","A5" : "8''P/9'T/11T","A5#": "9''T " ,"B5" : "10P/10'T",
                "C6" : "9'P"   ,"C6#": "10''T"       ,"D6" : "11P"       ,"D6#": "9''P "       ,"E6" : "10'P"  ,"G6#": "10''P"
       },
-      // Castagnari G/C JPL
       "GCCasta3RJPL" : {
                description: "Sol/Do Castagnari 3 rangs JPL",
                "A2" : ""        ,"B2": "1P"     ,
@@ -55,8 +50,6 @@
                "F5#": "10T"     ,"G5" : "8'P/9P/7''T" ,"G5#": "7''P"      ,"A5" : "8''P/9'T/11T","A5#": "8''T"      ,"B5" : "10P/10'T",
                "C6" : "9''T/9'P","C6#": ""            ,"D6" : "11P"       ,"D6#": "9''P/11'T"   ,"E6" : "10'P/10''T","F6" : "",
                "F6#": ""        ,"G6" : "12'P"        ,"G6#": "11'P",
-      },
-      // Clavier 5' inversé
       "GC5Inv" : {
                description: "Sol/Do 5' Inversé",
                "C3" : ""      ,"C3#": ""      ,"D3" : "2P"    ,"D3#": ""       ,"E3" : "1'P"   ,"F3" : "1'T",
@@ -67,7 +60,6 @@
                "F5#": "10T"   ,"G5" : "8'P/9P","G5#": ""      ,"A5" : "9'T/11T","A5#": ""      ,"B5" : "10P/10'T",
                "C6" : "9'P"   ,"C6#": ""      ,"D6" : "11P"   ,"D6#": ""       ,"E6" : "10'P"  ,
       },
-      // Clavier François Heim
       "GCHeim2" : { 
                description: "Sol/Do, Heim 2",
                "B2" : "1P"    ,  
@@ -80,7 +72,6 @@
                "C6" : "9'P"   ,"C6#": "10''T ","D6" : "11P/11'T"  ,"D6#": "8''P"      ,"E6" : "10'P"  ,"F6" : "9''P", 
                "F6" : ""      ,"G6" : ""      ,"G6#": ""          ,"A6" : "11'P"      , 
       },
-      // Clavier Milleret Pignol
       "GCMillPign" : {
                description: "Milleret/Pignol",
                "B3" : "",  
