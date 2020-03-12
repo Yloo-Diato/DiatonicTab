@@ -3,15 +3,6 @@
 // Create diatinic accordion tablature from a MuseScore music score
 //---------------------------------------------------------------------
 
-import QtQuick 2.2
-import MuseScore 3.0
-import QtQuick.Controls 1.1
-import QtQuick.Controls.Styles 1.3
-import QtQuick.Layouts 1.1
-import QtQuick.Dialogs 1.2 // FileDialogs
-import FileIO 3.0
-
-
 //--------------------------------------------------------------------------
 /* Ce plugin ajoute le numéro des touches pour accordéon diatonique 
     afin de créer une forme très simplifiée de tablature
@@ -61,6 +52,13 @@ import FileIO 3.0
   - Ajouts plans de claviers
 
   ----------------------------------------------------------------------------*/
+import QtQuick 2.2
+import MuseScore 3.0
+import QtQuick.Controls 1.1
+import QtQuick.Controls.Styles 1.3
+import QtQuick.Layouts 1.1
+import QtQuick.Dialogs 1.2 // FileDialogs
+import FileIO 3.0
 
 MuseScore {
    description: qsTr("Tablatures pour accordéon diatonique, avec choix multi-critères")
