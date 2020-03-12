@@ -1,6 +1,6 @@
 {
       "GCStd2R21" : { 
-               description: "G/C,2 rangs, pas d'altération",
+               "description": "G/C,2 rangs, pas d'altération",
                "C3" : ""       ,"C3#"  : ""        ,"D3"  : "2P"    ,"D3#" : ""       ,"E3"  : "1'P"   ,"F3" : "1'T",
                "F3#": "2T"     ,"G3"   : "3P/2'P"  ,"G3#" : ""      ,"A3"  : "3T"     ,"A3#" : " "     ,"B3" : "4P/2'T",
                "C4"  : "3'P/4T","C4#"  : ""        ,"D4"  : "5P/3'T","D4#" : ""       ,"E4"  : "4'P/5T","F4" : "4'T",
@@ -10,7 +10,7 @@
                "C6" : "9'P"    ,"C6#"  : ""        ,"D6"  : "11P"   ,"D6#" : ""       ,"E6"  : "10'P"  ,
             },
       "GCAlt2R21" : { 
-               description: "G/C,2 rangs, avec altérations",
+               "description": "G/C,2 rangs, avec altérations",
                "C3" : ""      ,"C3#" : ""        ,"D3" : "2P"    ,"D3#" : ""       ,"E3" : ""      ,"F3" : "",
                "F3#": "2T"    ,"G3"  : "3P/2'P"  ,"G3#": "1'P"   ,"A3"  : "3T"     ,"A3#": "1'T"   ,"B3" : "4P/2'T",
                "C4" : "3'P/4T","C4#" : "1P"      ,"D4" : "5P/3'T","D4#" : "1T"     ,"E4" : "4'P/5T","F4" : "4'T",
@@ -20,7 +20,7 @@
                "C6" : "9'P"   ,"C6#" : ""        ,"D6" : "11P"   ,"D6#" : ""       ,"E6" : "10'P"  ,
             },
       "GCLoffet3R" : {
-               description: "Sol/Do Bernard Loffet 3 rangs",
+               "description": "Sol/Do Bernard Loffet 3 rangs",
                "C3" : ""      ,"C3#": ""           ,"D3" : "2P"        ,"D3#": ""            ,"E3" : "1'P/1T","F3": "1'T",
                "F3#": "2T"    ,"G3" : "3P/2'P"     ,"G3#": "1''P"      ,"A3" : "2''P/3T"     ,"A3#": "1''T"  ,"B3": "4P/2'T",
                "C4" : "3'P/4T","C4#": "2''T "      ,"D4" : "5P/3'T"    ,"D4#": " 3''P"       ,"E4" : "4'P/5T","F4": "4'T",
@@ -30,7 +30,7 @@
                "C6" : "9'P"   ,"C6#": ""           ,"D6" : "11P"       ,"D6#": "9''P "       ,"E6" : "10'P",
                 },      
       "GCCasta3RFH" : {
-               description: "Sol/Do Castagnari 3 rangs FH",
+               "description": "Sol/Do Castagnari 3 rangs FH",
                "C3" : ""      ,"C3#": ""            ,"D3" : "2P"        ,"D3#": ""            ,"E3" : "1'P/1T","F3" : "1'T",
                "F3#": "2T"    ,"G3" : "3P/2'P"      ,"G3#": "1''P"      ,"A3" : "2''P/3T"     ,"A3#": "1''T"  ,"B3" : "4P/2'T",
                "C4" : "3'P/4T","C4#": "2''T "       ,"D4" : "5P/3'T"    ,"D4#": "3''P"        ,"E4" : "4'P/5T","F4" : "4'T",
@@ -40,7 +40,7 @@
                "C6" : "9'P"   ,"C6#": "10''T"       ,"D6" : "11P"       ,"D6#": "9''P "       ,"E6" : "10'P"  ,"G6#": "10''P"
       },
       "GCCasta3RJPL" : {
-               description: "Sol/Do Castagnari 3 rangs JPL",
+               "description": "Sol/Do Castagnari 3 rangs JPL",
                "A2" : ""        ,"B2": "1P"     ,
                "C3#": ""        ,"D3" : "2P"          ,"D3#": " "         ,"E3" : "1'P/1T"      ,"F3" : "1'T"       ,
                "F3#": "2T"      ,"G3" : "3P/2'P/1''T" ,"G3#": "1''P"      ,"A3" : "2''P/3T"     ,"A3#": "2''T"      ,"B3" : "4P/2'T",
@@ -51,7 +51,7 @@
                "C6" : "9''T/9'P","C6#": ""            ,"D6" : "11P"       ,"D6#": "9''P/11'T"   ,"E6" : "10'P/10''T","F6" : "",
                "F6#": ""        ,"G6" : "12'P"        ,"G6#": "11'P",
       "GC5Inv" : {
-               description: "Sol/Do 5' Inversé",
+               "description": "Sol/Do 5' Inversé",
                "C3" : ""      ,"C3#": ""      ,"D3" : "2P"    ,"D3#": ""       ,"E3" : "1'P"   ,"F3" : "1'T",
                "F3#": "2T"    ,"G3" : "3P/2'P","G3#": ""      ,"A3" : "3T"     ,"A3#": ""      ,"B3" : "4P/2'T",
                "C4" : "3'P/4T","C4#": ""      ,"D4" : "5P/3'T","D4#": ""       ,"E4" : "4'P/5T","F4" : "4'T",
@@ -61,7 +61,7 @@
                "C6" : "9'P"   ,"C6#": ""      ,"D6" : "11P"   ,"D6#": ""       ,"E6" : "10'P"  ,
       },
       "GCHeim2" : { 
-               description: "Sol/Do, Heim 2",
+               "description": "Sol/Do, Heim 2",
                "B2" : "1P"    ,  
                "C3" : "0'P "  ,"C3#": ""      ,"D3" : "2P"        ,"D3#": "0''P"      ,"E3" : "1'P/1T","F3" : "1''P/0'T",
                "F3#": "2T"    ,"G3" : "3P/1'T","G3#": " 2''P/0''T","A3" : "3T/2'P"    ,"A3#": "1''T " ,"B3" : "4P/2'T",
@@ -73,7 +73,7 @@
                "F6" : ""      ,"G6" : ""      ,"G6#": ""          ,"A6" : "11'P"      , 
       },
       "GCMillPign" : {
-               description: "Milleret/Pignol",
+               "description": "Milleret/Pignol",
                "B3" : "",  
                "C3" : "","C3#": "0P","D3" : "1P","D3#": " 0''P","E3" : "0'P/1T","F3" : "0''P",
                "F3#": "1''P/2T","G3" : "3P/0'T","G3#": "1'T","A3" : "3T/2'P","A3#": "1'P/0''T ","B3" : "4P/2'T",
@@ -85,7 +85,7 @@
                "F6#" : "10''P","G6"  : "11'P","G6#" : "","A6"  : "",
                },
       "C#DIrish" : {
-               description: "C#/D Irish machine",
+               "description": "C#/D Irish machine",
                "C3#": "0P "    ,"D3" : "0'P","D3#": " "  ,"E3" : ""   ,"F3" : "1P",
                "F3#": "1'/0T"  ,"G3" : "0'T","G3#": "2P ","A3" : "2'P","A3#": "1T","B3" : "1'T",
                "C4" : "2T"     ,"C4#": "3P/2'T ","D4"  : "3'P","D4#" : "3T ","E4"  : "3'T","F4"  : "4P",
@@ -96,7 +96,7 @@
                "f#'" : "10'P"  ,"G6" : "10'P","g#'" : "11P",
             },
        "BCIrish": { 
-               description: "BC Irish machine",
+               "description": "BC Irish machine",
                "B3": "0P",
                "C3#": "0'P","D3" : ""   ,"D3#": "1P" ,"E3" : "1'P/0'T","F3" : "",
                "F3#": "2P","G3"  : "2'P","G3#": "1T" ,"A3" : ""       ,"A3#": "2T"    ,"B3" : "3P",
