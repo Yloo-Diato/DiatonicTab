@@ -1,3 +1,8 @@
+//---------------------------------------------------------------------
+// DiatonicTab, MuseScore 3 plugin
+// Create diatinic accordion tablature from a MuseScore music score
+//---------------------------------------------------------------------
+
 import QtQuick 2.2
 import MuseScore 3.0
 import QtQuick.Controls 1.1
