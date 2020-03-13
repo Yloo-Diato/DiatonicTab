@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------
-// DiatonicTab, MuseScore 3 plugin
+//Coucou ! DiatonicTab, MuseScore 3 plugin
 // Create diatinic accordion tablature from a MuseScore music score
 //---------------------------------------------------------------------
 
